@@ -1,0 +1,10 @@
+## POST
+# POST https://5000-bytonycruz-express-7kvb0rfc7zy.ws-us39.gitpod.io/about
+
+##GET
+# GET https://5000-bytonycruz-express-7kvb0rfc7zy.ws-us39.gitpod.io/
+
+# PUT 
+PUT https://5000-bytonycruz-express-7kvb0rfc7zy.ws-us39.gitpod.io/new
+
+# DELETE 
